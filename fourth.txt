@@ -2,3 +2,4 @@ Forth day Content
 ==================
 
 1.Javascript
+2.typescript
